@@ -1,2 +1,3 @@
 # LifeDrop
-A pharmacy management application that tracks medicine stock, expiry dates, suppliers, and sales records. I want the domain for this based on machine learning
+**LifeDrop** is a blood donor finder system developed to help people quickly locate suitable blood donors during emergencies. The platform enables users to register as donors, manage their profiles, and search for donors based on blood group and location. By connecting donors and recipients efficiently, LifeDrop reduces the time and effort required to find blood when it is urgently needed. The system provides a simple, user-friendly interface and maintains donor information securely. Its primary goal is to create a reliable network of voluntary blood donors and contribute to saving lives through timely blood donation support.
+
